@@ -1,0 +1,8 @@
+TITLE: SMF Grant Advisory Hotline - Welcome Message and Grant Clinic Schedule
+SPEAKER: Automated hotline greeting
+SOURCE_ID: AUD01_hotline_welcome_and_clinic_schedule
+MODALITY: audio
+STATUS: SYNTHETIC - script written by the project team, voiced by text-to-speech. Not a recording of any real call.
+------------------------------------------------------------------------------
+
+Thank you for calling the Singapore Manufacturing Federation Grant Advisory Hotline. This is a recorded message. Our advisory officers are available Monday to Friday, nine in the morning to five thirty in the evening. We are closed on weekends and public holidays. If you leave a message outside these hours, an advisory officer will return your call within three working days. The Federation runs a free Grant Clinic on the second and fourth Wednesday of every month, at Alexandra Point, block A, fourth floor. Each Grant Clinic session runs for ninety minutes and is limited to twelve member companies, so early registration is advised. Grant Clinics are open to all corporate members at no charge. Non-members may attend one session as a guest before joining. Please bring three items to your Grant Clinic appointment. One, your A C R A business profile dated within the last six months. Two, your financial statements for the past three financial years. Three, any vendor quotation you have already received, even a draft one. Please note carefully. Our advisory officers can explain scheme criteria, but they cannot tell you whether your company will be approved. Only Enterprise Singapore, Workforce Singapore, or the relevant participating financial institution can make that decision. Thank you for calling the Singapore Manufacturing Federation.

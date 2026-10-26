@@ -1,0 +1,7 @@
+variant,n_scored,hit_rate,precision_at_k,recall_at_k,recall_normalised,mrr,behaviour_ok,citations_valid,must_contain_ok,must_not_contain_ok
+baseline,29,0.966,0.455,0.548,0.733,0.798,0.0,1.0,0.588,0.625
+exp1_hybrid,29,0.966,0.497,0.577,0.776,0.863,,,,
+exp2_rerank,29,1.0,0.51,0.618,0.806,0.917,,,,
+exp3_rewrite,29,0.897,0.476,0.531,0.726,0.839,,,,
+exp3_threshold_rewrite,29,0.828,0.589,0.456,0.736,0.77,0.333,1.0,0.529,0.875
+exp4_combined,29,0.862,0.607,0.494,0.807,0.802,0.333,1.0,0.529,1.0

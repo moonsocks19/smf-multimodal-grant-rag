@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Temporary files & locks
+*.bak
+*.tmp
+.~lock.*
+
+# OS / editor cruft
+.DS_Store
+.AppleDouble
+.LSOverride
+.vscode/
+.idea/

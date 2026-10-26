@@ -1,0 +1,26 @@
+{
+  "file": "VID002_case_study_tanjung.mp4",
+  "duration_s": 28.043,
+  "size_bytes": 14649281,
+  "video_codec": "h264",
+  "width": 852,
+  "height": 480,
+  "fps": "30/1",
+  "has_audio": true,
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "keyframe_fps": 0.25,
+  "keyframes": [
+    "frame_001.jpg",
+    "frame_002.jpg",
+    "frame_003.jpg",
+    "frame_004.jpg",
+    "frame_005.jpg",
+    "frame_006.jpg",
+    "frame_007.jpg"
+  ],
+  "extracted_audio": "extracted_audio/VID002_case_study_tanjung.wav",
+  "title": "Member Case Study Video - Tanjung Precision Works (PSG then EDG)",
+  "speaker": "Managing director, Tanjung Precision Works (dramatised)",
+  "summary": "Precision machining member. Was losing tenders on turnaround speed rather than quality: job scheduling ran on spreadsheets, quoting took three days, and machines sat idle through the night shift. A PSG pre-approved scheduling system came first, then a bespoke project let machines run unattended overnight. Quoting is now same day."
+}

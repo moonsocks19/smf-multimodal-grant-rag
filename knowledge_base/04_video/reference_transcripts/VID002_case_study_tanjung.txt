@@ -1,0 +1,13 @@
+TITLE: Member Case Study Video - Tanjung Precision Works (PSG then EDG)
+SPEAKER: Managing director, Tanjung Precision Works (dramatised)
+SOURCE_ID: VID002_case_study_tanjung
+MODALITY: video
+STATUS: RECONSTRUCTED FALLBACK - not verbatim. The authoritative
+        transcript comes from faster-whisper in notebook 01. This
+        file is used only if Whisper cannot load, and the notebook
+        records which source it used.
+COMPANY: FICTIONAL. Scheme mechanics are drawn from the verified
+        text-layer advisory notes; the business is invented.
+------------------------------------------------------------------------------
+
+This is Tanjung Precision Works, a precision machining shop that was losing tenders not on quality but on speed. Job scheduling ran on spreadsheets. Quoting took three days. Machines sat idle every night shift. They started with a Productivity Solutions Grant pre-approved scheduling system. Then a custom project let the machines run unattended overnight. Quoting is now same day.
